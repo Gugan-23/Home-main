@@ -6,7 +6,7 @@ function Home() {
       <h2> PROFILE SUMMARY</h2>
       <p>
      
-To leverage my skills in software development and my experience with technologies such as HTML,
+To leverage my skills in software development and my experience with technologies such as HTML,React,Angular
 JavaScript, and MongoDB in a challenging and dynamic environment. I aim to contribute to innovative
 projects and advance my expertise in database management while pursuing opportunities for professional
 growth and learning
